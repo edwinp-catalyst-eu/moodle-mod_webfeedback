@@ -1,0 +1,33 @@
+<?php
+$string['newmodule'] = 'Website feedback';
+$string['modulename'] = 'Website feedback';
+$string['modulenameplural'] = 'Website feedback';
+$string['newmodulefieldset'] = 'Custom example fieldset';
+$string['newmoduleintro'] = 'Website feedback intro';
+$string['newmodulename'] = 'Website feedback';
+$string['formheading'] = 'Praise or fail?';
+$string['feedbacktext'] = 'Comment:';
+$string['formintro'] = 'Tell os your opinion on this page. Feel free to add a comment on what we are good, and what could be better.';
+$string['ratingselect'] = 'What is your opinion on this webpage:';
+$string['linktitle'] = 'Tell us your opinion';
+$string['linkalttext'] = 'Give us feedback on this page';
+$string['pagetitle'] = 'Pagename: ';
+$string['pageurl'] = 'Url to the page: ';
+$string['uaos'] = 'Operating system: ';
+$string['uabrowser'] = 'Browser: ';
+$string['uabrowserversion'] = 'Browser version: ';
+$string['uaflashversion'] = 'Adobe flash plugin version: ';
+$string['uascreensize'] = 'Screen reselution: ';
+$string['rating'] = 'User rating: ';
+$string['feedback'] = 'User comment: ';
+$string['user'] = 'User login: ';
+$string['username'] = 'User name: ';
+$string['usermail'] = 'user email: ';
+$string['mailsubject'] = 'turteori.dk, user feedback';
+$string['redmine_server_description'] = 'The redmine server url, do NOT enter http://';
+$string['redmine_server'] = 'Redmine server:';
+$string['redmine_user'] = 'Redmine username:';
+$string['redmine_user_description'] = 'The redmine username';
+$string['redmine_password'] = 'Redmine user password:';
+$string['redmine_password_description'] = 'The password for the redmine user';
+?>

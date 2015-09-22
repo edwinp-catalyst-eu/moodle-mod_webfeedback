@@ -20,13 +20,4 @@
       </KEYS>
     </TABLE>
   </TABLES>
-  <STATEMENTS>
-    <STATEMENT NAME="insert log_display" TYPE="insert" TABLE="log_display" COMMENT="Initial insert of records on table log_display. Each record describes how data will be showed by log reports.">
-      <SENTENCES>
-        <SENTENCE TEXT="(module, action, mtable, field) VALUES ('webfeedback', 'add', 'webfeedback', 'name')" />
-        <SENTENCE TEXT="(module, action, mtable, field) VALUES ('webfeedback', 'update', 'webfeedback', 'name')" />
-        <SENTENCE TEXT="(module, action, mtable, field) VALUES ('webfeedback', 'view', 'webfeedback', 'name')" />
-      </SENTENCES>
-    </STATEMENT>
-  </STATEMENTS>
 </XMLDB>
